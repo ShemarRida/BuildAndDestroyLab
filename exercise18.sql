@@ -1,0 +1,1 @@
+update myNewDB.students set City = 'Edinburgh', Country = 'Scotland' where ID = 35;

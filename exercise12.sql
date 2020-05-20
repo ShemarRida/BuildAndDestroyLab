@@ -1,0 +1,1 @@
+alter table Users change MiddleName Initial varchar(64);

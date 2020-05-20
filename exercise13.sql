@@ -1,0 +1,1 @@
+alter table Users change FirstName First_Name varchar(255), change LastName Last_Name varchar(255);

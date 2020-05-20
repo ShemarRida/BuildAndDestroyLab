@@ -1,0 +1,1 @@
+update myNewDB.students set City = 'Edinburgh';

@@ -1,0 +1,1 @@
+alter table Users drop column NickName, drop column Suffix;
